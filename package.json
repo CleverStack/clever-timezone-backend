@@ -14,6 +14,14 @@
     "Daniel Young <daniel@clevertech.biz>"
   ],
   "description": "Timezones for CleverStack",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CleverStack/clever-timezone-backend.git"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CleverStack/clever-timezone-backend/issues"
+  },
   "keywords": [
     "cleverstack",
     "clevertech",

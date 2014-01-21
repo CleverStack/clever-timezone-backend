@@ -1,9 +1,7 @@
 {
   "name": "clever-timezone-backend",
-  "version": "0.0.1",
-  "dependencies": {
-
-  },
+  "version": "0.0.2",
+  "dependencies": {},
   "author": {
     "name": "Clevertech",
     "email": "info@clevertech.biz",
@@ -29,7 +27,5 @@
     "cleverstack-backend"
   ],
   "main": "module.js",
-  "devDependencies": {
-
-  }
+  "devDependencies": {}
 }

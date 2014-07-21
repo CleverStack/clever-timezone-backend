@@ -5,4 +5,4 @@ Module = ModuleClass.extend({
 
 });
 
-module.exports = new Module( 'timezone-module', injector );
+module.exports = new Module( 'clever-timezone-backend', injector );

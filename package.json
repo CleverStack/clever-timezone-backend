@@ -1,7 +1,9 @@
 {
   "name": "clever-timezone-backend",
   "version": "0.0.3",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "2.4.1"
+  },
   "author": {
     "name": "Clevertech",
     "email": "info@clevertech.biz",
